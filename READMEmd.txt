@@ -9,6 +9,7 @@
 
 2023.04.21.Fri 작업 완료
 ㅇ 화면계획서 틀 제작
+https://ovenapp.io/view/xcz2ZBY0uoaoZWW8kT0SHYOyJXJatlBg/WwFJp
 
 - cd 명 검색 버튼 클릭시
 ㅇ 2자 이하 : 2자 이상 입력해주세요
